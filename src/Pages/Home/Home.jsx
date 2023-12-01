@@ -7,7 +7,14 @@ import { IoCameraOutline } from "react-icons/io5";
 import { FaGlassCheers } from "react-icons/fa";
 import { MdOutlineFoodBank } from "react-icons/md";
 import { GiBalloons } from "react-icons/gi";
+import { useLoaderData } from "react-router-dom"
+import BlogCard from "../BlogCard/BlogCard"
+
+
 const Home = () => {
+       const blogs = useLoaderData ();
+        console.log(blogs);
+
     return (
         <div>
             <div className="carousel w-full">
@@ -75,7 +82,18 @@ const Home = () => {
               there should be only <br />
               goog surprises</h1>
          </div>
-        
+         <div>
+              <h4 className="flex justify-center items-center font-bold mt-14 text-red-700 text-xl">OUR BLOG</h4>
+              <h1 className="flex justify-center items-center mt-4 text-6xl">Get Inspired & Celebrate</h1>
+         </div>
+         <div>
+             {
+              blogs.map(blog => <BlogCard
+              key={blog.id}
+              blogs ={blog}
+              ></BlogCard>)
+             }
+         </div>
        </div>
     );
 };
