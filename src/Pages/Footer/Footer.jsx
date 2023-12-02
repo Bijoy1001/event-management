@@ -5,18 +5,20 @@ const Footer = () => {
              <footer className="footer p-10 bg-neutral text-neutral-content">
                 <nav>
                   <header className="footer-title">Services</header> 
-                  <a className="link link-hover">Branding</a>
-                  <a className="link link-hover">Design</a>
-                  <a className="link link-hover">Marketing</a>
-                  <a className="link link-hover">Advertisement</a>
+                  <a className="link link-hover">Wedding Events</a>
+                  <a className="link link-hover">Birthday Party</a>
+                  <a className="link link-hover">Children Birthday</a>
+                  <a className="link link-hover">Corporate Meets</a>
+                  <a className="link link-hover">Proposal Arrange</a>
+                  <a className="link link-hover">Social Meetings</a>
+                  <a className="link link-hover">Outdoor Meets</a>
+                  <a className="link link-hover">Fashion Shows</a>
                 </nav> 
                 <nav>
                   <header className="footer-title">Company</header> 
                   <a className="link link-hover">About us</a>
                   <a className="link link-hover">Contact</a>
-                  <a className="link link-hover">Jobs</a>
-                  <a className="link link-hover">Press kit</a>
-                </nav> 
+                 </nav> 
                 <nav>
                   <header className="footer-title">Legal</header> 
                   <a className="link link-hover">Terms of use</a>

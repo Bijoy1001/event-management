@@ -1,5 +1,3 @@
-import slide1 from "../../assets/Header2.jpg"
-import slide2 from "../../assets/header.jpg"
 import img2 from "../../assets/img2.png"
 import img3 from "../../assets/section.png"
 import img4 from "../../assets/section2.png"
@@ -7,7 +5,7 @@ import { IoCameraOutline } from "react-icons/io5";
 import { FaGlassCheers } from "react-icons/fa";
 import { MdOutlineFoodBank } from "react-icons/md";
 import { GiBalloons } from "react-icons/gi";
-import { useLoaderData } from "react-router-dom"
+import { NavLink, useLoaderData } from "react-router-dom"
 import BlogCard from "../BlogCard/BlogCard"
 
 
@@ -17,24 +15,19 @@ const Home = () => {
 
     return (
         <div>
-            <div className="carousel w-full">
-              <div id="slide1" className="carousel-item relative w-full">
-                <img src={slide2} className="w-full h-5/6" />
-                <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                  <a href="#slide4" className="btn btn-circle">❮</a> 
-                  <a href="#slide2" className="btn btn-circle">❯</a>
-               </div>
-              </div> 
-              <div id="slide2" className="carousel-item relative w-full">
-                <img src={slide1} className="w-full h-5/6" />
-                <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                  <a href="#slide1" className="btn btn-circle">❮</a> 
-                  <a href="#slide3" className="btn btn-circle">❯</a>
-                </div>
-              </div> 
+            <div className=" hero min-h-screen" style={{backgroundImage: 'url(https://i.ibb.co/hZ4ZgVR/header.jpg)'}}>
+            <div className="hero-overlay bg-opacity-60"></div>
+            <div className="hero-content text-center text-neutral-content">
+              <div className="max-w-md">
+                <h1 className="mb-8 text-6xl font-bold">A good life is a collection of happy moments.</h1>
+                <NavLink to='/service'>
+                 <button className="btn btn-primary">LET'S CELEBRATE</button>
+                </NavLink>
+              </div>
             </div>
+          </div>
            <div>
-              <div className="pl-20 ml-20 justify-center items-center grid grid-cols-2">
+              <div className="a pl-20 ml-20 justify-center items-center grid grid-cols-2">
                  <img src={img2} alt="" />
                  <h2 className="text-4xl font-bold"> We take care of preparatin, <br /> You enjoy the celebration!</h2>
               </div>
@@ -84,7 +77,7 @@ const Home = () => {
          </div>
          <div>
               <h4 className="flex justify-center items-center font-bold mt-14 text-red-700 text-xl">OUR BLOG</h4>
-              <h1 className="flex justify-center items-center mt-4 text-6xl">Get Inspired & Celebrate</h1>
+              <h1 className="flex justify-center items-center mt-4 text-6xl ">Get Inspired & Celebrate</h1>
          </div>
          <div>
              {

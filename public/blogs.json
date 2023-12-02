@@ -1,31 +1,31 @@
 [
     {
       "id": 1,
-      "pic": "https://ibb.co/47jTh56",
+      "pic": "https://i.ibb.co/kBm72fT/01.jpg",
       "date": "October 19, 2017",
       "title": "BEST CHOICE FOR CHILDREN,S PARTY",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida...."
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...."
     },
     {
       "id": 2,
-      "pic": "https://ibb.co/SdFjYRP",
+      "pic": "https://i.ibb.co/ggTgQf7/02.png",
       "date": "December 7, 2017",
       "title": "MUST-HAVE TOOLS FOR BETTER EVENTS",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida...."
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...."
     },
     {
       "id": 3,
-      "picture": "https://ibb.co/dfXczjf",
+      "pic": "https://i.ibb.co/yggvQ6q/03.png",
       "date": "November 17, 2017",
       "title": "STARTING AN EVELNT PLANNING SERVICE",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida...."
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...."
     },
     {
         "id": 4,
-        "picture": "https://ibb.co/7pjV7Xh",
+        "pic": "https://i.ibb.co/TBXfNzD/04.png",
         "date": "December 5, 2017",
         "title": "HOW TO START AN EVENT PLANNING SERVICE",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida...."
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...."
       }
   ]
   
