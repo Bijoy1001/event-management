@@ -5,11 +5,11 @@ import Footer from "../Pages/Footer/Footer";
 const Root = () => {
     return (
         <div>
-           
             <Navbar></Navbar>
+            <div>
             <Outlet></Outlet>
+           </div>
             <Footer></Footer>
-           
         </div>
     );
 };

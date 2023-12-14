@@ -5,8 +5,7 @@ import { IoCameraOutline } from "react-icons/io5";
 import { FaGlassCheers } from "react-icons/fa";
 import { MdOutlineFoodBank } from "react-icons/md";
 import { GiBalloons } from "react-icons/gi";
-import { NavLink, useLoaderData } from "react-router-dom"
-import BlogCard from "../BlogCard/BlogCard"
+import { NavLink } from "react-router-dom"
 
 
 const Home = () => {
