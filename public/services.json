@@ -1,217 +1,90 @@
 [
-    {
+  {
       "id": 1,
       "pic": "https://i.ibb.co/Sncvvg8/Wedding-events.png",
-      "ammount": "1500 $",
+      "amount": "1500 $",
       "title": "Wedding Events",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-             Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-        
-    },
-    {
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
       "id": 2,
       "pic": "https://i.ibb.co/HF5pbJg/Birthday-Party.png",
-      "ammount": "600 $",
+      "amount": "600 $",
       "title": "Birthday Party",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-          Mauris scelerisque ligula odio, at fermentum ante varius non. 
-           Vivamus ac velit nec magna interdum pharetra at ac augue.
-             Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-       
-    },
-    {
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
       "id": 3,
       "pic": "https://i.ibb.co/k92BxbS/Children-Birthdays.png",
-      "ammount": "500 $",
+      "amount": "500 $",
       "title": "Children's Birthday",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-           Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-        
-    },
-    {
-        "id": 4,
-        "pic": "https://i.ibb.co/pLqTSpp/Corporate-meet.png",
-        "ammount": "500 $",
-        "title": "Corporate Meets",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-        "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-       
-      },
-      {
-        "id": 5,
-        "pic": "https://i.ibb.co/NWs92LM/Proposal-Arrange.png",
-        "ammount": " 250 $",
-        "title": "Proposal Arrange",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-        "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-    
-      },
-      {
-        "id": 6,
-        "pic": "https://i.ibb.co/BtKjGFs/Social-Meetings.png",
-        "ammount": " 350 $",
-        "title": "Social Meetings",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-        "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-       
-      },
-      {
-        "id": 7,
-        "pic": "https://i.ibb.co/ZBB9zkm/Outdoor-meets.png",
-        "ammount": "150$",
-        "title": "Outdoor Meets",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-        "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-             Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-        
-      },
-      {
-          "id": 8,
-          "pic": "https://i.ibb.co/jD5dThW/Fashion-Shows.png",
-          "ammount": " 700 $",
-          "title": "Fashion Shows",
-          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
-          "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus.
-             Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue.
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi.
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac.
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Morbi suscipit sed justo eu tempus. 
-            Mauris scelerisque ligula odio, at fermentum ante varius non. 
-            Vivamus ac velit nec magna interdum pharetra at ac augue. 
-            Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. 
-            Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. 
-            Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. 
-            Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
-        "type-food":"For Choice",
-        "additional":"For Choice",
-        "landing":"For Choice"
-        }
-  ]
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
+      "id": 4,
+      "pic": "https://i.ibb.co/pLqTSpp/Corporate-meet.png",
+      "amount": "500 $",
+      "title": "Corporate Meets",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
+      "id": 5,
+      "pic": "https://i.ibb.co/NWs92LM/Proposal-Arrange.png",
+      "amount": " 250 $",
+      "title": "Proposal Arrange",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
+      "id": 6,
+      "pic": "https://i.ibb.co/BtKjGFs/Social-Meetings.png",
+      "amount": " 350 $",
+      "title": "Social Meetings",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
+      "id": 7,
+      "pic": "https://i.ibb.co/ZBB9zkm/Outdoor-meets.png",
+      "amount": "150$",
+      "title": "Outdoor Meets",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  },
+  {
+      "id": 8,
+      "pic": "https://i.ibb.co/jD5dThW/Fashion-Shows.png",
+      "amount": " 700 $",
+      "title": "Fashion Shows",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+      "PH": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.",
+      "type-food": "For Choice",
+      "additional": "For Choice",
+      "landing": "For Choice"
+  }
+]

@@ -1,3 +1,4 @@
+import { NavLink } from "react-router-dom";
 
 const Footer = () => {
     return (
@@ -5,14 +6,14 @@ const Footer = () => {
              <footer className="footer p-10 bg-neutral text-neutral-content">
                 <nav>
                   <header className="footer-title">Services</header> 
-                  <a className="link link-hover">Wedding Events</a>
-                  <a className="link link-hover">Birthday Party</a>
-                  <a className="link link-hover">Children Birthday</a>
-                  <a className="link link-hover">Corporate Meets</a>
-                  <a className="link link-hover">Proposal Arrange</a>
-                  <a className="link link-hover">Social Meetings</a>
-                  <a className="link link-hover">Outdoor Meets</a>
-                  <a className="link link-hover">Fashion Shows</a>
+                  <a className="link link-hover"><NavLink to='/service'>Wedding Events</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Birthday Party</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Children Birthday</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Corporate Meets</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Proposal Arrange</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Social Meetings</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Outdoor Meets</NavLink></a>
+                  <a className="link link-hover"><NavLink to='/service'>Fashion Shows</NavLink></a>
                 </nav> 
                 <nav>
                   <header className="footer-title">Company</header> 

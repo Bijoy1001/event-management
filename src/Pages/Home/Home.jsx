@@ -10,9 +10,7 @@ import BlogCard from "../BlogCard/BlogCard"
 
 
 const Home = () => {
-       const blogs = useLoaderData ();
-        console.log(blogs);
-
+      
     return (
         <div>
             <div className=" hero min-h-screen" style={{backgroundImage: 'url(https://i.ibb.co/hZ4ZgVR/header.jpg)'}}>
@@ -75,18 +73,8 @@ const Home = () => {
               there should be only <br />
               goog surprises</h1>
          </div>
-         <div>
-              <h4 className="flex justify-center items-center font-bold mt-14 text-red-700 text-xl">OUR BLOG</h4>
-              <h1 className="flex justify-center items-center mt-4 text-6xl ">Get Inspired & Celebrate</h1>
-         </div>
-         <div>
-             {
-              blogs.map(blog => <BlogCard
-              key={blog.id}
-              blogs ={blog}
-              ></BlogCard>)
-             }
-         </div>
+      
+         
        </div>
     );
 };
